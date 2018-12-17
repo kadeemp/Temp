@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>21B011BA-A263-4170-930D-EAEF4291BFAD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>21B011BA-A263-4170-930D-EAEF4291BFAD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>OutmatchedMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OutmatchedMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project OutmatchedMobile with scheme OutmatchedMobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>566734987.13816094</real>
+			<key>timeStoppedRecording</key>
+			<real>566734989.30375695</real>
+			<key>title</key>
+			<string>Building project OutmatchedMobile with scheme OutmatchedMobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>21B011BA-A263-4170-930D-EAEF4291BFAD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
